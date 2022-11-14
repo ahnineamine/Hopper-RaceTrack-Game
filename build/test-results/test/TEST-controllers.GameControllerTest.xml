@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="controllers.GameControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-14T06:23:32" hostname="LAPTOP-64MRVHGS" time="0.052">
+  <properties/>
+  <testcase name="findOptimalNumberOfHops()" classname="controllers.GameControllerTest" time="0.039"/>
+  <testcase name="createGrid()" classname="controllers.GameControllerTest" time="0.01"/>
+  <testcase name="createObstacleSquares()" classname="controllers.GameControllerTest" time="0.001"/>
+  <system-out><![CDATA[Finding eligible hops with hopper starting position (0, 0) and starting velocity (0, 0)
+Finding eligible hops with hopper current position (1, 0) with velocity (1, 0)
+Finding eligible hops with hopper current position (2, 1) with velocity (1, 1)
+Finding eligible hops with hopper current position (2, 2) with velocity (0, 1)
+Reached Solution !
+Finding eligible hops with hopper starting position (0, 0) and starting velocity (0, 0)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
